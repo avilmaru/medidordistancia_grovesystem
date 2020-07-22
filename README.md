@@ -1,3 +1,3 @@
 Tutorial: 
-http://www.mecatronicalab.es/modulos-grove-medidor-de-distancia/
+http://www.mecatronicalab.es/medidor-de-distancia-con-grove-system/
  
